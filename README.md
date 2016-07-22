@@ -1,0 +1,1 @@
+Beanstalkd docker image built with optimal default arguments and on the lightweight alpine linux.  I disagreed with a lot of the other beanstalkd docker image configurations, so this is my take on it ;)
